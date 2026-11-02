@@ -1,0 +1,7 @@
+#prime numbers from 1 to  N 
+#take a positive integer n as input and print all prime numbers from 1 to n 
+
+n= int(input"enter your number");
+for i in range(2,2+n)
+print(i);
+
